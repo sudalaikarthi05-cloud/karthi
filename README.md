@@ -1,1 +1,1 @@
-# karthi
+#AngularJS with SQL integration
